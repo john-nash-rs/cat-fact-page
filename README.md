@@ -1,4 +1,4 @@
-# Find complete react and javascript tutorial at [Link skillcaptain.app](https://skillcaptain.app)
+# Find complete react and javascript tutorial at [skillcaptain.app](https://skillcaptain.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
